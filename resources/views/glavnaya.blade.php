@@ -3,6 +3,7 @@
 <head>
 	<title>Сайт</title>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
@@ -65,7 +66,7 @@
 		text-align: center;
 	}
 
-	p.log2 {	
+	p.log2 {
 		font-family: Raleway;
 		font-style: normal;
 		font-weight: bold;
@@ -318,26 +319,26 @@
 
 	input.input1 {
 		width: 250px;
-		height: 35px; 
+		height: 35px;
 		border: 2px solid #737373;
 		box-sizing: border-box;
 		filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-		border-radius: 20px; 
-		margin: auto; 
-		text-align: center; 
+		border-radius: 20px;
+		margin: auto;
+		text-align: center;
 		margin-top: 20px;
 	}
 
 	input.input2 {
 		width: 250px;
-		height: 35px; 
+		height: 35px;
 		background: #737373;
 		border: 2px solid #737373;
 		box-sizing: border-box;
 		box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-		border-radius: 20px; 
-		margin: auto; 
-		text-align: center; 
+		border-radius: 20px;
+		margin: auto;
+		text-align: center;
 		font-weight: bold;
 		font-size: 15px;
 		line-height: 130.9%;
@@ -435,7 +436,7 @@
 		text-align: center;
 	}
 
-	p.log2 {	
+	p.log2 {
 		font-family: Raleway;
 		font-style: normal;
 		font-weight: bold;
@@ -688,26 +689,26 @@
 
 	input.input1 {
 		width: 250px;
-		height: 35px; 
+		height: 35px;
 		border: 2px solid #737373;
 		box-sizing: border-box;
 		filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-		border-radius: 20px; 
-		margin: auto; 
-		text-align: center; 
+		border-radius: 20px;
+		margin: auto;
+		text-align: center;
 		margin-top: 20px;
 	}
 
 	input.input2 {
 		width: 250px;
-		height: 35px; 
+		height: 35px;
 		background: #737373;
 		border: 2px solid #737373;
 		box-sizing: border-box;
 		box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-		border-radius: 20px; 
-		margin: auto; 
-		text-align: center; 
+		border-radius: 20px;
+		margin: auto;
+		text-align: center;
 		font-weight: bold;
 		font-size: 15px;
 		line-height: 130.9%;
@@ -805,7 +806,7 @@
 		text-align: center;
 	}
 
-	p.log2 {	
+	p.log2 {
 		font-family: Raleway;
 		font-style: normal;
 		font-weight: bold;
@@ -866,7 +867,7 @@
 		width: 50px;
 		height: 50px;
 		float: left;
-		margin-top: 20%; 
+		margin-top: 20%;
 	}
 
 	p.about2 {
@@ -1055,26 +1056,26 @@
 
 	input.input1 {
 		width: 250px;
-		height: 35px; 
+		height: 35px;
 		border: 2px solid #737373;
 		box-sizing: border-box;
 		filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-		border-radius: 20px; 
-		margin: auto; 
-		text-align: center; 
+		border-radius: 20px;
+		margin: auto;
+		text-align: center;
 		margin-top: 20px;
 	}
 
 	input.input2 {
 		width: 250px;
-		height: 35px; 
+		height: 35px;
 		background: #737373;
 		border: 2px solid #737373;
 		box-sizing: border-box;
 		box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-		border-radius: 20px; 
-		margin: auto; 
-		text-align: center; 
+		border-radius: 20px;
+		margin: auto;
+		text-align: center;
 		font-weight: bold;
 		font-size: 15px;
 		line-height: 130.9%;
@@ -1120,16 +1121,16 @@
 
 
 
-        
+
     </style>
-	<header> 
+	<header>
 	@extends('layouts.app')
 
 	@section('content')
 		</div>
-		<p class="p1">«Reparacion» - 
-			<font style="color: white; font-size: 42px;">воплощаем ваши 
-				мечты об уютной квартире 
+		<p class="p1">«Reparacion» -
+			<font style="color: white; font-size: 42px;">воплощаем ваши
+				мечты об уютной квартире
 				в реальность
 			</font></p>
 	</header>
